@@ -1,0 +1,63 @@
+body
+{
+	background-image:"background.png";
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(31, 233, 233);
+		padding: 10px;
+		float: none;
+        border-radius: 15px;
+        text-emphasis-color: white;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h3
+{
+    color:yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: 30px
+}
+h4
+{
+    color: yellow;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+span
+{
+    color:lightcoral;
+    font-size: 30px;
+    
+}
+header
+{
+    color: red;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
